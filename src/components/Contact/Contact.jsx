@@ -27,7 +27,7 @@ export const Contact = () => {
           <a href="https://github.com/ktiya23">github.com/ktiya23</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("contact/call1.png")} alt="call icon" height="40px" width="40px" style={{border:"round"}}/>
+          <img src={getImageUrl("contact/call1.png")} alt="call icon" height="40px" width="40px" style={{borderRadius:"10px"}} />
           <a href="">8707299171</a>
         </li>
       </ul>

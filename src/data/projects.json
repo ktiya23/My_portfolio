@@ -1,26 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Myntra Clone",
+    "imageSrc": "projects/myntra.png",
+    "description": "This is a Myntra clone project made by MERN stack",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://frontend-r6fycfjio-kashish-agraharis-projects.vercel.app/",
+    "source": "https://github.com/ktiya23/Myntra_clone"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "HNM Clone",
+    "imageSrc": "projects/hnm.png",
+    "description": "This is a HNM clone project made to learn core javascript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://resilient-alfajores-f01766.netlify.app/",
+    "source": "https://github.com/ktiya23/MajorProject/tree/main/project2"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Employee Skill ",
+    "imageSrc": "projects/employee.png",
+    "description": "This React project demonstrates a Dynamic Table with Role and Skills Management",
+    "skills": ["React", "Material-UI"],
+    "demo": "https://frabjous-brioche-c17c1f.netlify.app/",
+    "source": "https://github.com/ktiya23/Employee_Skill_Management"
+  },
+  {
+    "title": "User Management App",
+    "imageSrc": "projects/user.png",
+    "description": "The application allows users to view a list of users, search, sort by name, and view detailed information about individual users with light/dark toggle mode.",
+    "skills": ["React", "Material-UI"],
+    "demo": "https://grand-mermaid-187941.netlify.app/",
+    "source": "https://github.com/ktiya23/User_Management_App"
   }
 ]
