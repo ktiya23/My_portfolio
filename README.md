@@ -3,7 +3,8 @@
 Welcome to my **Personal Portfolio Website**! This project showcases my skills, projects, and contact information in a professional and interactive way.  
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio](#)  
+🔗 [View Portfolio](#) 
+https://splendorous-creponne-b18438.netlify.app/ 
 
 ## 📌 Features  
 - 🎨 **Modern UI/UX** – Clean and responsive design  
